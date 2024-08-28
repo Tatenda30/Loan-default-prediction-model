@@ -1,4 +1,5 @@
 Project Overview
+
  The objective of this data science competition project is to evaluate a dataset and create a predictive model to ascertain borrowers' loan condition. The dataset offered includes data on a variety of loan applications, including loan specifics, repayment history, and borrower demographics.
 
 APPROACH
